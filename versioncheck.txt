@@ -1,4 +1,4 @@
 {
-    "version": "1.0.1",
-    "notes": "Added compatibility for Quasar Inventory"
+    "version": "1.0.2",
+    "notes": "Added an option in config.lua to choose whether updates should show in the server console on startup"
 }
