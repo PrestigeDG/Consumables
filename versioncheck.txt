@@ -1,4 +1,4 @@
 {
     "version": "1.0.3",
-    "notes": "Fixed error with ox_inventory not removing the item upon use!"
+    "notes": "Implemented admin commands for adjusting a players hunger, thirst, and stress levels, with toggleable functionality in the config.lua! | Fixed error with ox_inventory not removing the item upon use! | Minor changes in the code."
 }
