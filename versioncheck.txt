@@ -1,4 +1,4 @@
 {
     "version": "1.0.3",
-    "notes": "Fixed the problem with ox_inventory not removing the item!"
+    "notes": "Fixed error with ox_inventory not removing the item upon use!"
 }
