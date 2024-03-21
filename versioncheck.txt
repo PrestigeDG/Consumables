@@ -1,4 +1,4 @@
 {
-    "version": "1.0.3",
-    "notes": "Implemented admin commands. | Fixed error with ox_inventory! | Minor changes in the code."
+    "version": "1.0.4",
+    "notes": "Implemented debugs for buffs. | Fixed item removal problems. | Few minor changes in the code."
 }
