@@ -1,1 +1,4 @@
-
+{
+    "version": "2.0",
+    "notes": "Extensive overhaul of the codebases."
+}
