@@ -1,4 +1,4 @@
 {
     "version": "1.1",
-    "notes": "Added support for custom stress events."
+    "notes": "Added support for custom stress events and fixed alcohol."
 }
