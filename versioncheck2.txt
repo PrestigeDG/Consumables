@@ -1,4 +1,4 @@
 {
-    "version": "1.3",
-    "notes": "Refactored and made it possible to receive or remove more than one item."
+    "version": "1.4",
+    "notes": "Fixed and refactored code for custom progressbar."
 }
