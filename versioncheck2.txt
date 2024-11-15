@@ -1,4 +1,4 @@
 {
-    "version": "1.4",
-    "notes": "Fixed and refactored code for custom progressbar."
+    "version": "1.6",
+    "notes": "Added ESX support and our own internal buffs (no longer using ps-buffs)."
 }
