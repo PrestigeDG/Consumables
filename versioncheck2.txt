@@ -1,4 +1,4 @@
 {
-    "version": "1.6",
-    "notes": "Added ESX support and our own internal buffs (no longer using ps-buffs)."
+    "version": "1.8",
+    "notes": "Added additional inventory support."
 }
