@@ -1,4 +1,4 @@
 {
-    "version": "1.8",
-    "notes": "Added additional inventory support."
+    "version": "2.0",
+    "notes": "Major server and client sided refactorization and optimization."
 }
