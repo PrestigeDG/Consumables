@@ -1,4 +1,4 @@
 {
-    "version": "2.0",
-    "notes": "Major server and client sided refactorization and optimization."
+    "version": "2.1",
+    "notes": "Fixed hunger and thirst metadata not being set on QB framworks."
 }
