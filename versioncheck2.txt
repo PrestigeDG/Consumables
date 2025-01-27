@@ -1,4 +1,4 @@
 {
-    "version": "2.1",
-    "notes": "Fixed hunger and thirst metadata not being set on QB framworks."
+    "version": "2.2",
+    "notes": "Added possiblity to change cancel notify text."
 }
