@@ -1,4 +1,4 @@
 {
-    "version": "2.2",
-    "notes": "Added possiblity to change cancel notify text."
+    "version": "2.3",
+    "notes": "Added Config.Debug to allow for debugging consumable usage on both client and server side."
 }
