@@ -1,4 +1,4 @@
 {
-    "version": "2.3",
-    "notes": "Added Config.Debug to allow for debugging consumable usage on both client and server side."
+    "version": "2.4",
+    "notes": "Added the ability to replenish or deplete both hunger and thirst at the same time."
 }
