@@ -1,4 +1,4 @@
 {
-    "version": "2.4",
-    "notes": "Added the ability to replenish or deplete both hunger and thirst at the same time."
+    "version": "2.5",
+    "notes": "Fixed an error in the client sided code."
 }
