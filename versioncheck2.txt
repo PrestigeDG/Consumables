@@ -1,4 +1,4 @@
 {
-    "version": "2.5",
-    "notes": "Fixed an error in the client sided code."
+    "version": "2.6",
+    "notes": "Fixed a problem with armor not saving after player disconnection."
 }
