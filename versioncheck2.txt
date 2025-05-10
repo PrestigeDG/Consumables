@@ -1,4 +1,4 @@
 {
-    "version": "2.6",
-    "notes": "Fixed a problem with armor not saving after player disconnection."
+    "version": "2.7",
+    "notes": "Added max replenish amount and minimum depletion amount. Added max uses for items (client sided)."
 }
