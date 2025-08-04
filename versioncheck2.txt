@@ -1,4 +1,4 @@
 {
     "version": "2.8",
-    "notes": "Fixed nil value issue with esx_status for ESX users."
+    "notes": "Fixed an arithmetic error caused by nil 'replenish.max' values in esx_status integration."
 }
