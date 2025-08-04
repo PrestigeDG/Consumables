@@ -1,4 +1,4 @@
 {
-    "version": "2.7",
-    "notes": "Added max replenish amount and minimum depletion amount. Added max uses for items (client sided)."
+    "version": "2.8",
+    "notes": "Fixed nil value issue with esx_status for ESX users."
 }
